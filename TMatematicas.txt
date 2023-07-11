@@ -1,0 +1,45 @@
+Ángulos suplementarios miden 180 ¿Verdadero o Falso?	;V
+La suma de ángulos externos de un triángulo es 180 ¿Verdadero o Falso?	;F
+ 4 decenas es igual a 40  ¿Verdadero o Falso?	;V
+Una carretera se mine en centimetros ¿Verdadero o Falso?	;F
+El circulo es un poligono ¿Verdadero o Falso?	;F
+ 327*7 es 2289 ¿Verdadero o Falso?	;V
+El numero anterior de 588 es 589 ¿Verdadero o Falso?	;F
+91 decenas son 90 unidades ¿Verdadero o Falso?	;F
+El cuadrado es un poligono ¿Verdadero o Falso?	;V
+ El tercio de 36 es 12 ¿Verdadero o Falso?	;V
+820/4 es 206 ¿Verdadero o Falso?	;F
+Un angulo agudo mide 95 grados ¿Verdadero o Falso?	;F
+3 centenas y 5 unidades es igual a 305 ¿Verdadero o Falso? ; V
+59 > 89 ¿Verdadero o Falso?  ; F
+Una hora tiene 3600 segundos ¿Verdadero o Falso? ; V
+El 20% de 80 naranjas es 20 ¿Verdadero o Falso?	;V
+El teorema de Pitágoras se sintetiza en: c=a+b ¿Verdadero o Falso?	;F
+Con la ley de senos y cosenos se resuelven triángulos oblicuangulo ¿Verdadero o Falso? ;V
+El ángulo de depresión es igual al ángulo de elevación ¿Verdadero o Falso?	;F
+En triángulos rectángulos se usa el teorema:a+b+c=180 ¿Verdadero o Falso?	;V
+La representación de el duplo de un numero, es 2x ¿Verdadero o Falso?	;V
+1 vector tiene modulo dirección y sentido ¿Verdadero o Falso?	;V
+Ejercicio  -11-(-42)= 31 ¿ Verdadero o Falso?	;V
+El numerador indica las partes que tomo del entero ¿Verdadero o Falso?	;V
+Las fracciones se pueden expresar como decimal ¿Verdadero o Falso?	;V
+1/4 es igual a 2/4 ¿Verdadero o Falso?	;V
+15 Docenas es igual a 182¿Verdadero o Falso?	;F
+El 6%DE 600 esferos es 37 ¿Verdadero o Falso?	;F
+42,38,34,30,….... El numero que sigue es 26 ¿Verdadero o Falso?	;V
+El 42% de 1250 es 225 ¿Verdadero o Falso?	;F
+La energia cinetica de un cuerpo se debe a su posicion ¿Verdadero o Falso?	;F
+El vector tiene modulo, direccion y sentido ¿Verdadero o Falso?	;V
+En un triangulo rectangulo A=60º y B=120º ¿Verdadero o Falso?	;F
+Un cuerpo que cae acelera a 9,81m/s ¿Verdadero o Falso?	;F
+La expresion 40% es igual a 2/5 ¿Verdadero o Falso?	;V
+La fracion de 4 años en una decada es 1/2 ¿Verdadero o Falso?	;F
+Una ecuacion cuadratica tiene 2 soluciones o raices ¿Verdadero o Falso?	;V
+La suma de los cuadrados de los catetos es igual a la hipotenusa ¿Verdadero o Falso?	;F
+El punto de corte de la bisectris es el incentro ¿Verdadero o Falso?	;V
+Un triangulo equilatero tiene los lados de igual medida ¿Verdadero o Falso?	;V
+Es lo mismo Masa y Peso ¿Verdadero o Falso?	;F
+La mediatriz es perpendicular en el punto medio ¿Verdadero o Falso?	;V
+La sumatoria de los angulos complementarios es 90 ¿Verdadero o Falso?	;V
+Las bases de un trapecio son paralelas entre si ¿Verdadero o Falso?	;V
+Un trapecio es equilatero si tiene 2 lados congruentes ¿Verdadero o Falso?	;V

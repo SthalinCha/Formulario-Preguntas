@@ -1,0 +1,45 @@
+La Tierra gira alrededor del Sol ¿Verdadero o Falso?	;V
+Los mamíferos ponen huevos.¿Verdadero o Falso?	;F
+El oxígeno es necesario para la combustión ¿Verdadero o Falso?	;V
+El núcleo de un átomo está compuesto por electrones ¿Verdadero o Falso?	;F
+El agua hierve a 100 grados Celsius ¿Verdadero o Falso?	;V
+La Luna emite su propia luz.¿Verdadero o Falso?	;F
+Los seres humanos solo usamos el 10% de nuestro cerebro ¿Verdadero o Falso?	;F
+El petróleo es un recurso renovable.¿Verdadero o Falso?	;F
+La gravedad es más fuerte en la Luna que en la Tierra ¿Verdadero o Falso?	;F
+La energía solar es una fuente renovable e inagotable.¿Verdadero o Falso?	;V
+Los virus son organismos vivos ¿Verdadero o Falso?	;F
+El ADN contiene información genética de los seres vivos ¿Verdadero o Falso?	;V
+El oxígeno es el gas más abundante en la atmósfera terrestre¿Verdadero o Falso?	;F
+La formula quimica de agua es CO2 ¿Verdadero o Falso?	;F
+El sistema solar está compuesto por ocho planetas ¿Verdadero o Falso?	;F
+La energía no se crea ni se destruye, solo se transforma.¿Verdadero o Falso?	;V
+El hierro se oxida cuando está expuesto al aire y la humedad.¿Verdadero o Falso?	;V
+La fotosíntesis proceso de las plantas convierten la luz solar en energía química¿Verdadero o Falso?	;V
+Los protones tienen carga negativa¿Verdadero o Falso?	;F
+El sistema solar se encuentra en la Vía Láctea¿Verdadero o Falso?	;V
+Los pulmones son los órganos responsables de la respiración¿Verdadero o Falso?	;V
+Los líquidos tienen forma definida ¿Verdadero o Falso?	;F
+La respiración celular ocurre en las mitocondrias ¿Verdadero o Falso?	;V
+El ácido clorhídrico esta en el jugo gástrico del estómago humano ¿Verdadero o Falso?	;V
+Los dinosaurios coexistieron con los seres humanos ¿Verdadero o Falso?	;F
+La tierra es el planeta más cercano al sol ¿Verdadero o Falso?	;F
+Las bacterias son organismos unicelulares ¿Verdadero o Falso?	;V
+Los arácnidos tienen seis  patas. ¿Verdadero o Falso?	;F
+La célula es la unidad básica de la vida ¿Verdadero o Falso?	;V
+El sistema nervioso central está formado por el cerebro y la médula espinal ¿Verdadero o Falso?	;V
+La Luna tiene luz propia ¿Verdadero o Falso?	;F
+La energía nuclear se genera a partir de la fisión o fusión de átomos¿Verdadero o Falso?	;V
+El ADN es una molécula de ácido ribonucleico ¿Verdadero o Falso?	;F
+La radiación ultravioleta es visible para el ojo humano ¿Verdadero o Falso?	;F
+El pH se utiliza para medir la acidez o alcalinidad de una solución¿Verdadero o Falso?	;V
+El proceso de fermentación produce dióxido de carbono¿Verdadero o Falso?	;V
+Los vertebrados son animales que carecen de columna vertebral¿Verdadero o Falso?	;F
+El hierro es un metal líquido a temperatura ambiente ¿Verdadero o Falso?	;F
+La luz viaja más rápido que el sonido ¿Verdadero o Falso?	;V
+La Tierra tarda 345 días en dar una vuelta alrededor del Sol ¿Verdadero o Falso?	;F
+El cuerpo humano estaformado por 230 huesos¿Verdadero o Falso?	;F
+Los rayos X son ondas electromagnéticas de baja energía. ¿Verdadero o Falso?	;F
+La mitosis proceso de división celular resulta en células sexuales ¿Verdadero o Falso?	;F
+los cromosomas de los hombres son XX ¿Verdadero o Falso?	;F
+El daltonismo causa disminucion de la vision ¿Verdadero o Falso?	;F

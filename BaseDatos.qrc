@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TCienciasNaturales.txt</file>
+        <file>TMatematicas.txt</file>
+    </qresource>
+</RCC>
